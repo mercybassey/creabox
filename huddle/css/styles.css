@@ -1,0 +1,154 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    padding:10px 40px;
+}
+.logo-button{
+    margin-left:auto;
+
+}
+.nav-button{
+    padding: 8px 25px 8px 25px;
+    border-radius: 20px;
+    background-color: white;
+    color:black;
+    border: 0px ;
+    font-weight: bold;
+    box-shadow: 0px 0px 4px 4px rgba(0, 0,0, 0.10);
+}
+.header{
+    background-image: url("../images/bg-hero-desktop.svg");
+    height:50vh;
+}
+.header-content{
+    display: flex;
+    margin-top: 30px;
+}
+.word{
+    padding-top:70px;
+}
+.discription{
+    align-self:center;
+    width: 75%;
+    
+    
+}
+.get{
+    padding: 10px 40px;
+    padding: 8px 50px 8px 50px;
+    border-radius: 20px;
+    background-color:purple;
+    color:white;
+    border:none;
+    font-weight: bold;
+
+
+}
+.grow-together{
+    display: flex;
+    flex-direction: row;
+    margin-top:300px; 
+    padding: 10px 40px;
+    
+    box-shadow: 0 0 4px 4px rgba(0,0,0,0.05);
+    border-radius: 20px;
+    margin-left: 40px;
+    margin-right:40px;
+    
+}
+.together{
+    align-self: center;
+    
+}
+.flowing-conversations{
+    display: flex;
+    flex-direction:row-reverse;
+    margin-top:200px;  
+    padding: 10px 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 4px 4px rgba(0,0,0,0.05);
+    border-radius: 20px;
+
+    margin-left: 40px;
+    margin-right:40px;
+}
+.conversation{
+    align-self: center;
+    padding-left: 30px;
+}
+.your-users{
+    display: flex;
+    flex-direction:row-reverse;
+    margin-top:200px;  
+    padding: 10px 40px;
+    box-shadow: 0 0 4px 4px rgba(0,0,0,0.05);
+    border-radius: 20px;
+    margin-left: 40px; 
+    margin-right:40px; 
+}
+.your{
+    align-self: center;
+    padding-left:30px;
+    
+}
+.your-community{
+    border: 0;
+    position: relative;
+    top:100px;
+    height: 200px;
+    width:500px;
+    text-align: center;
+    padding:20px 50px;
+    box-shadow: 0px 0px 2px 2px rgba(0,0,0,0.10);
+    margin:auto;
+    border-radius: 10px;
+    background-color: white;
+
+}
+.b1{
+    padding: 10px 40px;
+    padding: 8px 50px 8px 50px;
+    border-radius: 20px;
+    background-color:rgb(128, 0, 90);
+    color:white;
+    border:none;
+    font-weight: bold;
+ 
+}
+
+
+.button{
+    padding-top:50px;
+}
+.footer{
+    background-color: rgb(43, 159, 226);
+    height:60vh;
+    display: flex;
+    flex-direction:row; padding: 150px 100px;
+    justify-content: space-between;
+    color:white;
+
+}
+ .img-footer{
+   margin-top:-42px;
+   margin-left: 1rem;
+   
+} 
+
+.para {
+    margin-left: -34%;
+}
+
+.text {
+    margin-left: 13%;
+    margin-top: -5%;
+}
+
+.icons {
+    margin-left: 7%;
+}
+.sign{
+    margin-top:-50px;
+    margin-left:1000px;
+    color:white;
+}

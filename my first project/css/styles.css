@@ -1,0 +1,26 @@
+body{
+    background-image: url(../css/images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+
+}
+.circle{
+    margin-top:35px;
+}
+.text1{
+    margin-top:70px;
+}
+.btn{
+    border-radius: 30px;
+    
+}
+.btn1{
+    
+    background-color: purple;
+}
+.btn2{
+    background-color: rgb(0, 119, 255);
+}
+.rowtext{
+    margin-top:40px;
+    padding: 10px;
+}
